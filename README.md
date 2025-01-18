@@ -8,6 +8,8 @@ Je m'appelle Diffo Nathan Princer, développeur Web passionné, spécialisé dan
 
 👯 Je suis ouvert à des collaborations sur des projets de développement web passionnants utilisant des technologies de pointe.
 
+Partagez moi vos impressions sur diffoprincer@gmail.com
+
 <!--
 **diffonathan/diffonathan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
