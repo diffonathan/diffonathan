@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Je m'appelle Diffo Nathan Princer, développeur Web passionné, spécialisé dans la création d'applications web robustes et évolutives. Voici un aperçu de mon profil :
+Je m'appelle Diffo Nathan Princer, développeur Web passionné, spécialisé dans la création d'applications web robustes et évolutives. Voici un aperçu de mon profil(Tous les éléments arriveront très prochainement):
 
 🔭 Je travaille actuellement sur le développement d'applications full-stack en utilisant des frameworks et technologies modernes.
 
