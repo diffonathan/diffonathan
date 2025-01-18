@@ -1,8 +1,10 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+Je m'appelle Diffo Nathan Princer, développeur Web passionné, spécialisé dans la création d'applications web robustes et évolutives. Voici un aperçu de mon profil :
+
+🔭 Je travaille actuellement sur le développement d'applications full-stack en utilisant des frameworks et technologies modernes.
+🌱 J'approfondis actuellement mes compétences en React, Node.js, Laravel, Inertia et Angular pour offrir des expériences utilisateur fluides et des solutions backend efficaces.
+👯 Je suis ouvert à des collaborations sur des projets de développement web passionnants utilisant des technologies de pointe.
 
 <!--
 **diffonathan/diffonathan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
