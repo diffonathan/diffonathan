@@ -34,14 +34,16 @@ réellement adopté.
 ## Ce qui tourne aujourd'hui
 
 Le code de ces produits est privé — ils appartiennent à leurs commanditaires.
-Les liens ci-dessous mènent aux applications en fonctionnement.
+Certains sont des **outils internes** : ils tournent en production mais ne sont pas
+ouverts au public, et je n'en publie ni l'adresse ni de capture de données réelles.
+Ce que je peux décrire, c'est le problème résolu et les décisions de conception.
 
-### Outils métier — MBO Services
+### Outils métier internes
 
 | Produit | Ce qu'il remplace | Lien |
 |---|---|---|
-| **Réponse aux appels d'offres** | Un fichier Excel partagé et des dossiers renumérotés à la main. L'outil lit les pièces reçues — y compris scannées —, retrouve la date limite et le périmètre **en montrant le passage source**, et impose un parcours verrouillé du premier document jusqu'à la facturation. | [tracker.mboservices.tech](https://tracker.mboservices.tech) |
-| **Recrutement** | Un tableur de suivi et des CV rangés à la main. Faire avancer un candidat range automatiquement son dossier ; les documents d'embauche sont produits depuis des modèles. La table de suivi **reprend les colonnes exactes du tableur remplacé** — c'est ce qui a permis la bascule. | [rh.mboservices.tech](https://rh.mboservices.tech) |
+| **Réponse aux appels d'offres** | Répondre à un appel d'offres industriel suppose de lire des centaines de pages pour en tirer trois informations. L'outil fait cette lecture — PDF scannés compris — et **affiche le passage source à côté de chaque information extraite** : l'opérateur vérifie au lieu de faire confiance. | *outil interne, non ouvert au public* |
+| **Suivi de recrutement** | Faire avancer une candidature range automatiquement son dossier, et les documents d'embauche sont produits depuis des modèles. La table de suivi **reprend les colonnes exactes du tableur qu'elle remplace** — c'est ce qui rend la bascule acceptable pour une équipe. | *outil interne, non ouvert au public* |
 
 ### Produits web — prestation pour Hope Traders Academy
 
