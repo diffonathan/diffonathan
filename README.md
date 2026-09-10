@@ -10,7 +10,8 @@
 
 <a href="https://diffonathan.github.io"><img src="https://img.shields.io/badge/Portfolio-diffonathan.github.io-0781FE?style=for-the-badge&labelColor=09090B" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/nathan-princer-diffo"><img src="https://img.shields.io/badge/LinkedIn-Nathan_Princer_Diffo-0781FE?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=09090B" alt="LinkedIn" /></a>
-<a href="https://diffonathan.github.io/cv.pdf"><img src="https://img.shields.io/badge/CV-PDF-F9A825?style=for-the-badge&labelColor=09090B" alt="CV" /></a>
+<a href="https://diffonathan.github.io/cv.pdf"><img src="https://img.shields.io/badge/CV-Fran%C3%A7ais-F9A825?style=for-the-badge&labelColor=09090B" alt="CV en français (PDF)" /></a>
+<a href="https://diffonathan.github.io/cv-en.pdf"><img src="https://img.shields.io/badge/CV-English-F9A825?style=for-the-badge&labelColor=09090B" alt="CV in English (PDF)" /></a>
 <img src="https://img.shields.io/badge/Marrakech,_Maroc-b1b1b1?style=for-the-badge&labelColor=09090B" alt="Marrakech, Maroc" />
 
 </div>
