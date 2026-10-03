@@ -28,7 +28,24 @@ Un outil interne échoue rarement sur la technique. Il échoue parce que personn
 l'ouvre. C'est ce qui m'intéresse dans ce métier : livrer quelque chose qui est
 réellement adopté.
 
-**Huit applications et sites que j'ai conçus et livrés sont en ligne.**
+**Dix applications et sites que j'ai conçus et livrés sont en ligne.**
+
+---
+
+## Du code que vous pouvez lire
+
+Les produits livrés à des commanditaires ont un code privé — il ne m'appartient
+pas. Ces deux-là sont à moi, entièrement ouverts, et construits pour montrer des
+décisions techniques plutôt que pour être vendus. L'application tourne, le code
+se lit, les tests s'exécutent.
+
+| Projet | Le problème, et la décision qui le règle | |
+|---|---|---|
+| **Factura**<br/><sub>PHP 8.4 · Laravel 13 · Vue 3 · PostgreSQL</sub> | Une TPE marocaine facture sous Excel : la numérotation saute, et un contrôle fiscal le sanctionne. Ici le numéro est réservé **dans la même transaction que la facture** — un échec ne consomme rien, et la base refuse elle-même deux factures au même numéro, la réécriture d'un document émis ou un encaissement supérieur au dû. 103 tests. | [code](https://github.com/diffonathan/factura) · [démo](https://factura-eu.onrender.com) |
+| **RDV Santé**<br/><sub>Java 21 · Spring Boot 4 · Angular 22 · Kafka</sub> | Prendre rendez-vous passe par un appel, et on attend sans savoir combien de personnes précèdent. Quatre services qui ne s'appellent jamais directement : ils s'échangent des événements par un **outbox transactionnel**, et si l'un tombe les autres continuent. Deux patients sur le même créneau : un index unique partiel l'interdit **dans la base**, pas dans le code. | [code](https://github.com/diffonathan/rdv-sante) · [démo](https://rdv-sante.onrender.com) |
+
+> Les démonstrations sont hébergées gratuitement : elles s'endorment après quinze
+> minutes sans visite et demandent une minute pour se réveiller.
 
 ---
 
@@ -70,6 +87,7 @@ Ce que je peux décrire, c'est le problème résolu et les décisions de concept
 <img src="https://img.shields.io/badge/JavaScript-09090B?style=flat-square&logo=javascript&logoColor=F9A825" />
 <img src="https://img.shields.io/badge/Python-09090B?style=flat-square&logo=python&logoColor=0781FE" />
 <img src="https://img.shields.io/badge/PHP-09090B?style=flat-square&logo=php&logoColor=0781FE" />
+<img src="https://img.shields.io/badge/Java-09090B?style=flat-square&logo=openjdk&logoColor=0781FE" />
 <img src="https://img.shields.io/badge/SQL-09090B?style=flat-square&logo=postgresql&logoColor=0781FE" />
 </p>
 
@@ -78,6 +96,9 @@ Ce que je peux décrire, c'est le problème résolu et les décisions de concept
 <img src="https://img.shields.io/badge/FastAPI-09090B?style=flat-square&logo=fastapi&logoColor=0781FE" />
 <img src="https://img.shields.io/badge/Laravel-09090B?style=flat-square&logo=laravel&logoColor=F9A825" />
 <img src="https://img.shields.io/badge/Node.js-09090B?style=flat-square&logo=nodedotjs&logoColor=0781FE" />
+<img src="https://img.shields.io/badge/Spring_Boot-09090B?style=flat-square&logo=springboot&logoColor=F9A825" />
+<img src="https://img.shields.io/badge/Vue.js-09090B?style=flat-square&logo=vuedotjs&logoColor=F9A825" />
+<img src="https://img.shields.io/badge/Angular-09090B?style=flat-square&logo=angular&logoColor=0781FE" />
 <img src="https://img.shields.io/badge/Tailwind_CSS-09090B?style=flat-square&logo=tailwindcss&logoColor=0781FE" />
 </p>
 
@@ -86,6 +107,8 @@ Ce que je peux décrire, c'est le problème résolu et les décisions de concept
 <img src="https://img.shields.io/badge/Docker-09090B?style=flat-square&logo=docker&logoColor=0781FE" />
 <img src="https://img.shields.io/badge/Stripe-09090B?style=flat-square&logo=stripe&logoColor=0781FE" />
 <img src="https://img.shields.io/badge/Microsoft_365-09090B?style=flat-square&logo=microsoft&logoColor=0781FE" />
+<img src="https://img.shields.io/badge/PostgreSQL-09090B?style=flat-square&logo=postgresql&logoColor=0781FE" />
+<img src="https://img.shields.io/badge/Apache_Kafka-09090B?style=flat-square&logo=apachekafka&logoColor=b1b1b1" />
 <img src="https://img.shields.io/badge/WordPress-09090B?style=flat-square&logo=wordpress&logoColor=b1b1b1" />
 </p>
 
